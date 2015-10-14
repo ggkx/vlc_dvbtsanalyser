@@ -1,0 +1,1 @@
+./vlc --verbose 0 --no-audio --rate 50 --no-video ~/workspace/streams/PSB2_401171.ts
